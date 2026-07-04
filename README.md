@@ -13,4 +13,5 @@ your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
 
 
-[Click here to visit Git Documentation](https://git-scm.com/docs)
+For more information on Git, See the 
+[Click here to visit Git Documentation](https://git-scm.com/docs).
